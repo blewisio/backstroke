@@ -1,0 +1,20 @@
+{
+  "name": "backstroke",
+  "version": "0.1.0",
+  "description": "lap swim workouts",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "swim",
+    "laps",
+    "workout",
+    "log"
+  ],
+  "author": "Brent Lewis <brent.lewis08@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
