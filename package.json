@@ -15,6 +15,6 @@
   "author": "Brent Lewis <brent.lewis08@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^23.1.0"
+    "jest": "^23.6.0"
   }
 }
